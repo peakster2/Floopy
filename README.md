@@ -45,11 +45,6 @@ Uyarı: Oyunun Tam Ekran Modu Kapalı Olmalıdır!
 [Bu Özellik Sayesinde Kendi Config'lerinizi Oluşturabilir, Kullanıcılarla Paylaşabilirsiniz, Oluşturduğunuz Configleri Daha Sonra Tekrar Yükleyebilirsiniz]
 
 
-![zyro-image (4) (1)](https://user-images.githubusercontent.com/106769027/175766409-58888e50-268c-4416-a0b9-d94524828329.png) Title Changer
-
-[Oyunun Title Name'ini Değiştirir ve Hoş bir Görüntü Sağlar]
-
-
 ![zyro-image (4) (1)](https://user-images.githubusercontent.com/106769027/175766411-729af6b3-4e98-4cae-99b3-ad48b344c50d.png) Blantant
 
 [CPS Göstergesini Yanıltarak CPS Değerinizi 70'e Kadar Çıkartabilirsiniz]
