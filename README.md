@@ -86,5 +86,12 @@ Uyarı: Oyunun Tam Ekran Modu Kapalı Olmalıdır!
 
 
 
+![2](https://user-images.githubusercontent.com/106769027/175767016-aff43a78-1690-4934-8d5e-1b0263ad93b7.PNG)
+![3](https://user-images.githubusercontent.com/106769027/175767023-70c52972-9352-49ca-b439-6e7065e29e8c.PNG)
+![4](https://user-images.githubusercontent.com/106769027/175767029-604c5205-9c63-435f-8d10-2a42e49de61b.PNG)
+![5](https://user-images.githubusercontent.com/106769027/175767034-b01c64b0-1823-45b1-89c6-bccb2e6aeeba.PNG)
+![6](https://user-images.githubusercontent.com/106769027/175767037-1b76384a-03ad-43c3-9e59-a33cdeba0fed.PNG)
+
+
 
 
