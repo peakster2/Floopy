@@ -3,7 +3,7 @@ CraftRise ve SonOyuncu İçerisinde Diğer Rakiplerden Sizi Daha Üstün Kılaca
 
 ![zyro-image (4) (1)](https://user-images.githubusercontent.com/106769027/175766388-30649698-c183-4d28-a401-e238f697145f.png) Left Clicker
 
-[5-70 CPS Arası Ayarlanabilir Sağ Click Makrosu]
+[5-70 CPS Arası Ayarlanabilir Sol Click Makrosu]
 
 
 ![zyro-image (4) (1)](https://user-images.githubusercontent.com/106769027/175766391-06bdcdc1-c9c1-4572-85a5-0e33c8d309dc.png) Right Clicker
