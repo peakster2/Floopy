@@ -1,37 +1,37 @@
 # Floopy
 CraftRise ve SonOyuncu İçerisinde Diğer Rakiplerden Sizi Daha Üstün Kılacak bir Hile İstemcisi!
 
-![sa](https://user-images.githubusercontent.com/106769027/175766005-7d6680e1-f5d9-44ff-8258-31f7ca9bc5aa.png) Left Clicker
+![met-removebg-preview](https://user-images.githubusercontent.com/106769027/175766175-53810226-bd8a-4e00-a6d3-b9cf6185db55.png) Left Clicker
 
-![sa](https://user-images.githubusercontent.com/106769027/175766005-7d6680e1-f5d9-44ff-8258-31f7ca9bc5aa.png) Right Clicker
+![met-removebg-preview](https://user-images.githubusercontent.com/106769027/175766177-8f41a6d3-074d-46de-8e80-dc74b57b9a83.png) Right Clicker
 
-![sa](https://user-images.githubusercontent.com/106769027/175766005-7d6680e1-f5d9-44ff-8258-31f7ca9bc5aa.png) Aim Assist & ESP
+![met-removebg-preview](https://user-images.githubusercontent.com/106769027/175766179-58b92407-0116-4a2d-909b-6f7032bb9354.png) Aim Assist & ESP
 
-![sa](https://user-images.githubusercontent.com/106769027/175766005-7d6680e1-f5d9-44ff-8258-31f7ca9bc5aa.png) Autorod
+![met-removebg-preview](https://user-images.githubusercontent.com/106769027/175766180-75213f85-a864-46e8-a551-f88001caade4.png) Autorod
 
-![sa](https://user-images.githubusercontent.com/106769027/175766005-7d6680e1-f5d9-44ff-8258-31f7ca9bc5aa.png) Airjump / Velocity
+![met-removebg-preview](https://user-images.githubusercontent.com/106769027/175766183-b782c81c-9826-44b6-b6a0-02c9021db918.png) Airjump / Velocity
 
-![sa](https://user-images.githubusercontent.com/106769027/175766005-7d6680e1-f5d9-44ff-8258-31f7ca9bc5aa.png) Legit Reach
+![met-removebg-preview](https://user-images.githubusercontent.com/106769027/175766185-01646524-d748-44e0-a257-fbf9653618f3.png) Legit Reach
 
-![sa](https://user-images.githubusercontent.com/106769027/175766005-7d6680e1-f5d9-44ff-8258-31f7ca9bc5aa.png) Cave Finder
+![met-removebg-preview](https://user-images.githubusercontent.com/106769027/175766189-e6486bd1-bd87-4f31-8d19-6e94442d7157.png) Cave Finder
 
-![sa](https://user-images.githubusercontent.com/106769027/175766005-7d6680e1-f5d9-44ff-8258-31f7ca9bc5aa.png) Config Manager
+![met-removebg-preview](https://user-images.githubusercontent.com/106769027/175766190-d9a9c56d-5ab5-4c63-9ca1-287c295b35d8.png) Config Manager
 
-![sa](https://user-images.githubusercontent.com/106769027/175766005-7d6680e1-f5d9-44ff-8258-31f7ca9bc5aa.png) Title Changer
+![met-removebg-preview](https://user-images.githubusercontent.com/106769027/175766192-bf160493-139b-4579-aac5-7352cac11183.png) Title Changer
 
-![sa](https://user-images.githubusercontent.com/106769027/175766005-7d6680e1-f5d9-44ff-8258-31f7ca9bc5aa.png) Blantant
+![met-removebg-preview](https://user-images.githubusercontent.com/106769027/175766193-c7822e98-405d-4fa7-86fc-bf9c2fd71904.png) Blantant
 
-![sa](https://user-images.githubusercontent.com/106769027/175766005-7d6680e1-f5d9-44ff-8258-31f7ca9bc5aa.png) Ignore Chat
+![met-removebg-preview](https://user-images.githubusercontent.com/106769027/175766195-5053505e-c11b-49f0-8ed4-2339ab74fa19.png) Ignore Chat
 
-![sa](https://user-images.githubusercontent.com/106769027/175766005-7d6680e1-f5d9-44ff-8258-31f7ca9bc5aa.png) Anti Ban
+![met-removebg-preview](https://user-images.githubusercontent.com/106769027/175766199-6a7ee4d2-2fc1-451a-b322-776fec461cef.png) Anti Ban
 
-![sa](https://user-images.githubusercontent.com/106769027/175766005-7d6680e1-f5d9-44ff-8258-31f7ca9bc5aa.png) Toggle Sounds
+![met-removebg-preview](https://user-images.githubusercontent.com/106769027/175766200-391eed90-d5ac-4c5e-9f2e-daa425ba2573.png) Toggle Sounds
 
-![sa](https://user-images.githubusercontent.com/106769027/175766005-7d6680e1-f5d9-44ff-8258-31f7ca9bc5aa.png) Topmost
+![met-removebg-preview](https://user-images.githubusercontent.com/106769027/175766202-338f37dc-9242-4d53-aa5d-5e83bd7cc9d9.png) Topmost
 
-![sa](https://user-images.githubusercontent.com/106769027/175766005-7d6680e1-f5d9-44ff-8258-31f7ca9bc5aa.png) Arraylist
+![met-removebg-preview](https://user-images.githubusercontent.com/106769027/175766204-89818eed-e457-4f21-b374-52be36258a90.png) Arraylist
 
-![sa](https://user-images.githubusercontent.com/106769027/175766005-7d6680e1-f5d9-44ff-8258-31f7ca9bc5aa.png) Self Destruct
+![met-removebg-preview](https://user-images.githubusercontent.com/106769027/175766207-127253a1-16d2-4153-8e94-cd185018b6f9.png) Self Destruct
 
 
 
