@@ -1,11 +1,11 @@
 # Floopy
 CraftRise ve SonOyuncu İçerisinde Diğer Rakiplerden Sizi Daha Üstün Kılacak bir Hile İstemcisi!
 
-![zyro-image (3)](https://user-images.githubusercontent.com/106769027/175766342-a244a35b-2604-4778-af5e-fe12971686e8.png) Left Clicker
+![zyro-image (4) (1)](https://user-images.githubusercontent.com/106769027/175766388-30649698-c183-4d28-a401-e238f697145f.png) Left Clicker
 
-![zyro-image (3)](https://user-images.githubusercontent.com/106769027/175766344-770b3704-c288-4b8a-8849-6bf78940b99b.png) Right Clicker
+![zyro-image (4) (1)](https://user-images.githubusercontent.com/106769027/175766391-06bdcdc1-c9c1-4572-85a5-0e33c8d309dc.png) Right Clicker
 
-![zyro-image (3)](https://user-images.githubusercontent.com/106769027/175766346-b65c16e8-f5c4-40fd-bbcd-978b080b2dac.png) Aim Assist & ESP
+![zyro-image (4) (1)](https://user-images.githubusercontent.com/106769027/175766392-203e1322-3ecb-4b74-86d6-1cc29a9c3bf0.png) Aim Assist & ESP
 
 ![met-removebg-preview](https://user-images.githubusercontent.com/106769027/175766180-75213f85-a864-46e8-a551-f88001caade4.png) Autorod
 
