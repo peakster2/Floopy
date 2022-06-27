@@ -88,11 +88,12 @@ Uyarı: Oyunun Tam Ekran Modu Kapalı Olmalıdır!
 
 [Left Clicker İçinde Vururken Belirlediğiniz Hıza Göre Left Click'in Yanında Sağ Click de Atar Bu Sayede Rakipten Avantaj Sağlarsınız]
 
-![2](https://user-images.githubusercontent.com/106769027/175767016-aff43a78-1690-4934-8d5e-1b0263ad93b7.PNG)
+
+![fl1](https://user-images.githubusercontent.com/106769027/175978421-a0b0d6e6-06b3-4dac-961e-c54e1721ae6f.PNG)
 ![3](https://user-images.githubusercontent.com/106769027/175767023-70c52972-9352-49ca-b439-6e7065e29e8c.PNG)
 ![4](https://user-images.githubusercontent.com/106769027/175767029-604c5205-9c63-435f-8d10-2a42e49de61b.PNG)
 ![5](https://user-images.githubusercontent.com/106769027/175767034-b01c64b0-1823-45b1-89c6-bccb2e6aeeba.PNG)
-![6](https://user-images.githubusercontent.com/106769027/175767037-1b76384a-03ad-43c3-9e59-a33cdeba0fed.PNG)
+![fl2](https://user-images.githubusercontent.com/106769027/175978433-a00202ef-57e2-48e5-81e3-cc85e5c0684d.PNG)
 
 
 
