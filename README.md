@@ -79,7 +79,14 @@ Uyarı: Oyunun Tam Ekran Modu Kapalı Olmalıdır!
 
 [Tüm Event'leri Dispose Eder ve İstemciyi Sonlandırır]
 
+![image](https://user-images.githubusercontent.com/106769027/175977293-fc4a0f88-7ca5-4b44-9f5a-cd0bc8524cd9.png) Click Delay
 
+[Makro'nun Anlık Hit'e Göre Delaylı veya Delaysız Olup Olmayacağına Karar Verebileceğiniz Bir Seçenek]
+
+
+![image](https://user-images.githubusercontent.com/106769027/175977548-7d29e867-c0d6-4078-a062-a349be336b01.png) Blockhit
+
+[Left Clicker İçinde Vururken Belirlediğiniz Hıza Göre Left Click'in Yanında Sağ Click de Atar Bu Sayede Rakipten Avantaj Sağlarsınız]
 
 ![2](https://user-images.githubusercontent.com/106769027/175767016-aff43a78-1690-4934-8d5e-1b0263ad93b7.PNG)
 ![3](https://user-images.githubusercontent.com/106769027/175767023-70c52972-9352-49ca-b439-6e7065e29e8c.PNG)
