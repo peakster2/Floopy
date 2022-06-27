@@ -65,9 +65,9 @@ Uyarı: Oyunun Tam Ekran Modu Kapalı Olmalıdır!
 [Makro ve Autorod Tuşlarına Bastığınızda Bir Sinyal Sesi Çıkarır]
 
 
-![zyro-image (4) (1)](https://user-images.githubusercontent.com/106769027/175766420-fde152c6-9b28-49aa-ba68-b5b7ea0142f4.png) Topmost
+![zyro-image (4) (1)](https://user-images.githubusercontent.com/106769027/175766420-fde152c6-9b28-49aa-ba68-b5b7ea0142f4.png) Jitter Effect
 
-[İstemci'yi Tüm Programların Önüne Koyar ve Program Arkaya Düşmez]
+[Left Click'lerinize Jitter Efekti Sağlar]
 
 
 ![zyro-image (4) (1)](https://user-images.githubusercontent.com/106769027/175766422-3dae011d-d58c-4c20-95a9-ed50baa5737d.png) Arraylist
