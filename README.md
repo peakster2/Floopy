@@ -13,7 +13,7 @@ CraftRise ve SonOyuncu İçerisinde Diğer Rakiplerden Sizi Daha Üstün Kılaca
 
 ![zyro-image (4) (1)](https://user-images.githubusercontent.com/106769027/175766392-203e1322-3ecb-4b74-86d6-1cc29a9c3bf0.png) Aim Assist & Box ESP
 
-[Oyuna Enjekte Ettiği Modüller ile ESP Aktif Olur, Aynı Zamanda Aim Assist'i de Enjekte Edersiniz, Ayarladığınız Tuşa Basılı Tuttuğunuz Sürece Rakibe Odaklanır]
+[Oyuna Enjekte Ettiği Modüller ile ESP Aktif Olur, Aynı Zamanda Aim Assist'i de Enjekte Edersiniz, Ayarladığınız Tuşa Göre Rakibe Odaklanır]
 
 Uyarı: Ekran Ölçeğiniz Tam, Yani %100 Olmalıdır!
 
