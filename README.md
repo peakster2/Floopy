@@ -1,4 +1,4 @@
-# Floopy
+# Floopy [Øreo!#2892] - [MinokK#6937]
 CraftRise ve SonOyuncu İçerisinde Diğer Rakiplerden Sizi Daha Üstün Kılacak bir Hile İstemcisi!
 
 ![zyro-image (4) (1)](https://user-images.githubusercontent.com/106769027/175766388-30649698-c183-4d28-a401-e238f697145f.png) Left Clicker
